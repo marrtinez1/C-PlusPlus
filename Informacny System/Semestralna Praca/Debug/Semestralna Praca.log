@@ -1,0 +1,91 @@
+﻿  Spolocnost.cpp
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(159): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(244): warning C4018: '<=': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(271): warning C4018: '<=': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(298): warning C4018: '<=': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(308): warning C4018: '<=': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(287): warning C4189: 'loopVar': local variable is initialized but not referenced
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(288): warning C4189: 'datum': local variable is initialized but not referenced
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(399): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(509): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(616): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(620): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(645): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(731): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(754): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(798): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(821): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(865): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(888): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(904): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(1001): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(1039): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(1136): warning C4244: 'return': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\array_list.h(239): warning C4389: '==': signed/unsigned mismatch
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\array_list.h(235): note: while compiling class template member function 'void structures::ArrayList<Vozidlo *>::insert(const T &,const int)'
+          with
+          [
+              T=Vozidlo *
+          ]
+  c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(137): note: see reference to function template instantiation 'void structures::ArrayList<Vozidlo *>::insert(const T &,const int)' being compiled
+          with
+          [
+              T=Vozidlo *
+          ]
+  c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(7): note: see reference to class template instantiation 'structures::ArrayList<Vozidlo *>' being compiled
+c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\array_list.h(266): warning C4389: '==': signed/unsigned mismatch
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\array_list.h(263): note: while compiling class template member function 'T structures::ArrayList<T>::removeAt(const int)'
+          with
+          [
+              T=Vozidlo *
+          ]
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\array_list.h(255): note: see reference to function template instantiation 'T structures::ArrayList<T>::removeAt(const int)' being compiled
+          with
+          [
+              T=Vozidlo *
+          ]
+c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\array_list.h(280): warning C4018: '<': signed/unsigned mismatch
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\array_list.h(278): note: while compiling class template member function 'int structures::ArrayList<Vozidlo *>::getIndexOf(const T &)'
+          with
+          [
+              T=Vozidlo *
+          ]
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\array_list.h(252): note: see reference to function template instantiation 'int structures::ArrayList<Vozidlo *>::getIndexOf(const T &)' being compiled
+          with
+          [
+              T=Vozidlo *
+          ]
+c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(353): warning C4389: '==': signed/unsigned mismatch
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(340): note: while compiling class template member function 'void structures::LinkedList<Objednavka *>::insert(const T &,const int)'
+          with
+          [
+              T=Objednavka *
+          ]
+  c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(9): note: see reference to class template instantiation 'structures::LinkedList<Objednavka *>' being compiled
+c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(395): warning C4389: '==': signed/unsigned mismatch
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(386): note: while compiling class template member function 'T structures::LinkedList<T>::removeAt(const int)'
+          with
+          [
+              T=Objednavka *
+          ]
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(380): note: see reference to function template instantiation 'T structures::LinkedList<T>::removeAt(const int)' being compiled
+          with
+          [
+              T=Objednavka *
+          ]
+c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(462): warning C4018: '<': signed/unsigned mismatch
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(458): note: while compiling class template member function 'structures::LinkedListItem<T> *structures::LinkedList<T>::getItemAtIndex(int) const'
+          with
+          [
+              T=Objednavka *
+          ]
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(310): note: see reference to function template instantiation 'structures::LinkedListItem<T> *structures::LinkedList<T>::getItemAtIndex(int) const' being compiled
+          with
+          [
+              T=Objednavka *
+          ]
+  c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(230): note: while compiling class template member function 'structures::LinkedList<Objednavka *>::LinkedList(void)'
+  c:\users\martin\desktop\semestralna praca\semestralna praca\spolocnost.cpp(9): note: see reference to function template instantiation 'structures::LinkedList<Objednavka *>::LinkedList(void)' being compiled
+c:\users\martin\desktop\semestralna praca\semestralna praca\structures\list\linked_list.h(466): warning C4018: '<': signed/unsigned mismatch
+  Semestralna Praca.vcxproj -> C:\Users\Martin\Desktop\Semestralna Praca\Debug\Semestralna Praca.exe

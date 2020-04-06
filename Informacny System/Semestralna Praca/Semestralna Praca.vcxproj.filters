@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\structures">
+      <UniqueIdentifier>{e65acd0b-b708-45a2-ad4f-f71550d24983}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\structures\array">
+      <UniqueIdentifier>{06fd6943-351e-4d9f-842f-7e254cf34c5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\structures\list">
+      <UniqueIdentifier>{652336c9-7f1c-4483-a326-8027b52baa08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\structures\priority_queue">
+      <UniqueIdentifier>{7e133157-a05d-4947-a7a6-4a0e2bc0e740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\structures\queue">
+      <UniqueIdentifier>{3b197e11-600c-49e6-a2a3-ab266b18b591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\structures\stack">
+      <UniqueIdentifier>{e3ec7f7c-ee86-4d01-ac12-5b772f5919d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\structures\vector">
+      <UniqueIdentifier>{60281a37-d01a-4f96-ad8c-39a84e466a3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures">
+      <UniqueIdentifier>{b9e1f4c4-0ba1-4d95-865e-d6c95d640ffd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\vector">
+      <UniqueIdentifier>{f75971d8-419a-4e92-9043-1ca30b82b443}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\array\array.h">
+      <Filter>Header Files\structures\array</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\list\array_list.h">
+      <Filter>Header Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\list\linked_list.h">
+      <Filter>Header Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\list\list.h">
+      <Filter>Header Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\vector\vector.h">
+      <Filter>Header Files\structures\vector</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\stack\explicit_stack.h">
+      <Filter>Header Files\structures\stack</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\stack\implicit_stack.h">
+      <Filter>Header Files\structures\stack</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\stack\stack.h">
+      <Filter>Header Files\structures\stack</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\queue\explicit_queue.h">
+      <Filter>Header Files\structures\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\queue\implicit_queue.h">
+      <Filter>Header Files\structures\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\queue\queue.h">
+      <Filter>Header Files\structures\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\priority_queue\heap.h">
+      <Filter>Header Files\structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\priority_queue\priority_queue.h">
+      <Filter>Header Files\structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\priority_queue\priority_queue_list.h">
+      <Filter>Header Files\structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\ds_routines.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\ds_structure_types.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\heap_monitor.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\memory_routines.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\structure.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\structure_iterator.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="Vozidlo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SymbolickeKonstanty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spolocnost.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Prekladisko.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Objednavka.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Zasielka.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\ds_routines.cpp">
+      <Filter>Source Files\structures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\memory_routines.cpp">
+      <Filter>Source Files\structures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\structure.cpp">
+      <Filter>Source Files\structures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\2.Roc\Udajovky\1.Semestralka\ZahoraMartinAUS1\Semestralka\Semestralka\structures\vector\vector.cpp">
+      <Filter>Source Files\structures\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vozidlo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spolocnost.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prekladisko.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Objednavka.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Zasielka.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,172 @@
+﻿  Dron.cpp
+  Main.cpp
+  Objednavka.cpp
+  Prekladisko.cpp
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(43): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(187): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(197): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(208): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(224): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(234): warning C4244: 'argument': conversion from 'double' to 'time_t', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'time_t', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(336): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(371): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(401): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(414): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(427): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(431): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(441): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(445): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(505): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\linked_list.h(421): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\linked_list.h(416): note: while compiling class template member function 'int structures::LinkedList<Dron *>::getIndexOf(const T &)'
+          with
+          [
+              T=Dron *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\linked_list.h(378): note: see reference to function template instantiation 'int structures::LinkedList<Dron *>::getIndexOf(const T &)' being compiled
+          with
+          [
+              T=Dron *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(8): note: see reference to class template instantiation 'structures::LinkedList<Dron *>' being compiled
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(243): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(235): note: while compiling class template member function 'void structures::ArrayList<std::string>::insert(const T &,const int)'
+          with
+          [
+              T=std::string
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(11): note: see reference to class template instantiation 'structures::ArrayList<std::string>' being compiled
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(270): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(263): note: while compiling class template member function 'T structures::ArrayList<T>::removeAt(const int)'
+          with
+          [
+              T=std::string
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(43): note: see reference to function template instantiation 'T structures::ArrayList<T>::removeAt(const int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(326): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(323): note: while compiling class template member function 'void structures::ArrayList<std::string>::shrink(void)'
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(272): note: see reference to function template instantiation 'void structures::ArrayList<std::string>::shrink(void)' being compiled
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(146): note: while compiling class template member function 'structures::ArrayList<std::string>::ArrayList(void)'
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(11): note: see reference to function template instantiation 'structures::ArrayList<std::string>::ArrayList(void)' being compiled
+  Spolocnost.cpp
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(37): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(128): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(152): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(159): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(222): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(287): warning C4189: 'loopVar': local variable is initialized but not referenced
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(288): warning C4189: 'datum': local variable is initialized but not referenced
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(401): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(528): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(530): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(635): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(639): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(661): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(664): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(748): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(771): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(784): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(792): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(794): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(795): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(815): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(838): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(851): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(859): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(861): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(862): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(882): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(905): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(921): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(921): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(926): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(960): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1017): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1059): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1158): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1160): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1161): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1162): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1163): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1164): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1165): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1166): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1167): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1168): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1214): warning C4244: 'return': conversion from 'time_t' to 'unsigned long', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\linked_list.h(421): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\linked_list.h(416): note: while compiling class template member function 'int structures::LinkedList<Dron *>::getIndexOf(const T &)'
+          with
+          [
+              T=Dron *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\linked_list.h(378): note: see reference to function template instantiation 'int structures::LinkedList<Dron *>::getIndexOf(const T &)' being compiled
+          with
+          [
+              T=Dron *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(1158): note: see reference to class template instantiation 'structures::LinkedList<Dron *>' being compiled
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(243): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(235): note: while compiling class template member function 'void structures::ArrayList<Vozidlo *>::insert(const T &,const int)'
+          with
+          [
+              T=Vozidlo *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(137): note: see reference to function template instantiation 'void structures::ArrayList<Vozidlo *>::insert(const T &,const int)' being compiled
+          with
+          [
+              T=Vozidlo *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(7): note: see reference to class template instantiation 'structures::ArrayList<Vozidlo *>' being compiled
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(270): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(263): note: while compiling class template member function 'T structures::ArrayList<T>::removeAt(const int)'
+          with
+          [
+              T=Vozidlo *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(255): note: see reference to function template instantiation 'T structures::ArrayList<T>::removeAt(const int)' being compiled
+          with
+          [
+              T=Vozidlo *
+          ]
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(326): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(323): note: while compiling class template member function 'void structures::ArrayList<Vozidlo *>::shrink(void)'
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(272): note: see reference to function template instantiation 'void structures::ArrayList<Vozidlo *>::shrink(void)' being compiled
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\array_list.h(146): note: while compiling class template member function 'structures::ArrayList<Vozidlo *>::ArrayList(void)'
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\spolocnost.cpp(7): note: see reference to function template instantiation 'structures::ArrayList<Vozidlo *>::ArrayList(void)' being compiled
+  Vozidlo.cpp
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\vozidlo.cpp(29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\vozidlo.cpp(72): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\vozidlo.cpp(79): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\vozidlo.cpp(95): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\linked_list.h(421): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\linked_list.h(416): note: while compiling class template member function 'int structures::LinkedList<T>::getIndexOf(const T &)'
+          with
+          [
+              T=Zasielka *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\list\linked_list.h(378): note: see reference to function template instantiation 'int structures::LinkedList<T>::getIndexOf(const T &)' being compiled
+          with
+          [
+              T=Zasielka *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\queue\explicit_queue.h(72): note: see reference to class template instantiation 'structures::LinkedList<T>' being compiled
+          with
+          [
+              T=Zasielka *
+          ]
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\structures\queue\explicit_queue.h(70): note: while compiling class template member function 'structures::ExplicitQueue<Zasielka *>::ExplicitQueue(void)'
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\vozidlo.cpp(21): note: see reference to function template instantiation 'structures::ExplicitQueue<Zasielka *>::ExplicitQueue(void)' being compiled
+  d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\vozidlo.cpp(21): note: see reference to class template instantiation 'structures::ExplicitQueue<Zasielka *>' being compiled
+  Zasielka.cpp
+  Generating Code...
+d:\desktop\2.roc\udajovky\2019\semestralna praca\semestralna praca\prekladisko.cpp(64): warning C4715: 'Prekladisko::pridajDron': not all control paths return a value
+  Semestralna Praca.vcxproj -> D:\Desktop\2.Roc\Udajovky\2019\Semestralna Praca\x64\Debug\Semestralna Praca.exe
